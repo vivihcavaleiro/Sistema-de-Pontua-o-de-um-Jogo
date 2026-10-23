@@ -1,0 +1,47 @@
+
+# ♿ Acessibilidade na Escola
+
+## Sobre o projeto
+
+O projeto Acessibilidade na Escola apresenta informações sobre como tornar o ambiente escolar mais acessível e inclusivo.
+A página possui seis cards com dicas sobre comunicação, ambiente, informação, orientação, linguagem e rotina.
+O site foi desenvolvido com HTML5 e CSS3, utilizando cores, espaçamentos e textos fáceis de compreender.
+O layout é responsivo e pode ser acessado por computadores, tablets e celulares.
+O objetivo é incentivar atitudes que promovam a inclusão e o respeito na escola.
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- GitHub
+- GitHub Pages
+
+## Práticas de acessibilidade
+
+- Textos claros e fáceis de compreender.
+- Contraste adequado entre texto e fundo.
+- Fonte legível e tamanho confortável.
+- Títulos organizados em uma estrutura hierárquica.
+- Espaçamento entre os elementos.
+- Botão com texto descritivo.
+- Link para pular diretamente ao conteúdo.
+- Navegação por teclado e destaque de foco.
+- Emojis decorativos ocultos dos leitores de tela.
+- Layout responsivo para computadores e celulares.
+- Link externo aberto com proteção adequada.
+
+## Como acessar o site
+
+1. Crie um repositório público chamado `acessibilidade-na-escola`.
+2. Envie os arquivos `index.html`, `style.css` e `README.md`.
+3. Acesse as configurações do repositório (**Settings**).
+4. Entre em **Pages**.
+5. Em **Build and deployment**, selecione **Deploy from a branch**.
+6. Escolha a branch `main` e a pasta `/ (root)`.
+7. Clique em **Save**.
+
+Após a publicação, o GitHub Pages disponibilizará o endereço do site.
+
+## Objetivo
+
+Promover uma escola mais acessível, acolhedora e inclusiva para todos!
